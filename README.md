@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# This app is movie searcher to see the app please visit : 
 
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
